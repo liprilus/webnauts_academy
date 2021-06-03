@@ -1,2 +1,2 @@
-# webnauts_acad
+# webnauts_academy
  
